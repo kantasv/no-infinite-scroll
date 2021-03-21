@@ -6,3 +6,6 @@ https://chrome.google.com/webstore/detail/no-infinite-scroll/egkkpoeccfplbjcdmfl
 
 Copyright Kanta Yamaoka 2021
 Some rights reserved
+
+# My Qiita article about this
+https://qiita.com/kanta_yamaoka/items/996ffb0bc3961912037a
